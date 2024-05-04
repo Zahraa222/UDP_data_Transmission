@@ -10,7 +10,7 @@ This project demonstrates the process of transmitting an image file from a clien
 - **Error Handling**: Both client and server include basic error handling to deal with common network issues such as packet loss.
 
 
-##Understanding The Code
+## Understanding The Code
 
 - **Client**
   - Fragments the image into manageable packets
