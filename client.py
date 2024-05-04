@@ -9,7 +9,7 @@ delays = []
 dynamic_timeout = 5
 
 # Path to the image file
-image_path = "C:\\Users\\zzmmk\\Downloads\\test.jpg"
+image_path = "C:\\Users\\test.jpg"
 print(f"File name opened: {image_path}")
 
 # Create a socket
